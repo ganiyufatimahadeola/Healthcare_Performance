@@ -32,6 +32,10 @@ Drill-through
 Custom Tooltips
 Slicer and Filters 
 Data Visualization
+RLS 
+Reset Filters Bookmark
+Dynamic Tile 
+What-if Parameter
 
 ## Dataset
 Dataset
